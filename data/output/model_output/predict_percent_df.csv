@@ -1,0 +1,103 @@
+District_Name,Electoral_District_Number,employment_unemployment_rate,predict_unemployment_rate
+Ajax,35001,8.2,7.596000000000003
+Victoria,59041,6.0,7.017
+Orléans,35076,6.0,7.091999999999998
+Louis-Saint-Laurent,24045,3.6,6.295
+Stormont--Dundas--South Glengarry,35102,7.8,7.074999999999999
+Toronto--St. Paul's,35090,6.3,7.475999999999999
+Beloeil--Chambly,24011,4.3,5.46
+Battle River--Crowfoot,48002,7.7,8.043999999999999
+Simcoe North,35100,7.8,7.344000000000003
+Fundy Royal,13004,10.1,7.917999999999999
+Brampton East,35009,7.9,7.714000000000002
+Portage--Lisgar,46007,5.5,6.487
+Vancouver Granville,59036,5.3,7.013000000000002
+Jonquière,24032,9.1,11.592999999999995
+Hamilton Centre,35035,9.4,8.445999999999996
+Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,24051,6.2,12.262999999999998
+Renfrew--Nipissing--Pembroke,35086,7.2,6.714999999999999
+Chatham-Kent--Leamington,35017,7.0,7.1439999999999975
+Gaspésie--Les Îles-de-la-Madeleine,24026,14.8,15.653999999999996
+Egmont,11003,15.1,17.337999999999994
+Vancouver Kingsway,59038,5.8,6.866000000000001
+Vancouver East,59035,5.8,6.768000000000002
+Richmond Centre,59025,6.3,7.0409999999999995
+Barrie--Innisfil,35004,7.0,6.333999999999999
+Vimy,24078,8.6,8.561
+Durham,35023,7.3,6.516000000000002
+Niagara Centre,35066,8.5,7.263
+Algoma--Manitoulin--Kapuskasing,35002,10.4,13.117999999999997
+Bourassa,24015,11.9,10.281999999999998
+Longueuil--Charles-LeMoyne,24041,8.3,8.145000000000003
+Rivière-du-Nord,24063,6.9,6.867000000000002
+Glengarry--Prescott--Russell,35031,5.3,5.638999999999998
+Scarborough--Agincourt,35093,9.9,9.911999999999997
+St. John's East,10006,9.4,6.92
+Edmonton--Wetaskiwin,48021,8.6,8.454000000000002
+Beaches--East York,35007,8.0,7.405
+Edmonton Manning,48016,9.1,8.177000000000001
+Coquitlam--Port Coquitlam,59008,5.6,6.425999999999998
+Mégantic--L'Érable,24047,5.2,11.260999999999997
+Labrador,10004,15.0,19.437999999999985
+Cypress Hills--Grasslands,47002,4.2,7.4369999999999985
+Wellington--Halton Hills,35113,4.8,5.541999999999999
+Scarborough Centre,35094,9.4,9.21
+Richmond Hill,35087,7.2,6.97
+Yellowhead,48034,10.8,8.500999999999998
+Dorval--Lachine--LaSalle,24024,9.6,8.271
+Hamilton Mountain,35037,7.2,8.036999999999995
+Abitibi--Témiscamingue,24002,8.0,9.418
+Barrie--Springwater--Oro-Medonte,35005,7.1,6.998000000000001
+Niagara Falls,35067,7.3,7.349999999999997
+Kingston and the Islands,35044,8.1,7.831999999999996
+Manicouagan,24046,12.4,13.214
+Skeena--Bulkley Valley,59028,13.1,8.262999999999998
+Esquimalt--Saanich--Sooke,59026,5.4,6.739000000000002
+Notre-Dame-de-Grâce--Westmount,24053,8.6,8.299000000000001
+Oakville North--Burlington,35073,6.0,6.570999999999999
+Pierre-Boucher--Les Patriotes--Verchères,24014,4.2,5.103999999999998
+Medicine Hat--Cardston--Warner,48027,9.2,8.484
+Kamloops--Thompson--Cariboo,59013,8.2,7.9170000000000025
+Prince George--Peace River--Northern Rockies,59024,11.1,9.090999999999998
+Mississauga Centre,35058,9.4,8.504000000000003
+Markham--Unionville,35056,6.9,7.266000000000003
+Saint-Maurice--Champlain,24070,8.8,8.098999999999998
+Northumberland--Peterborough South,35071,7.2,6.751
+Lévis--Lotbinière,24042,3.9,4.766999999999999
+Halifax West,12006,6.5,6.904999999999996
+Lac-Saint-Jean,24035,10.8,13.003999999999996
+Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,24077,9.9,8.258000000000001
+Cardigan,11001,12.4,13.193000000000005
+Windsor--Tecumseh,35116,7.7,8.009
+Hamilton East--Stoney Creek,35036,7.5,7.489999999999993
+Courtenay--Alberni,59009,8.4,7.794
+Central Okanagan--Similkameen--Nicola,59005,7.9,7.861999999999998
+Louis-Hébert,24044,5.8,7.211999999999996
+Vaughan--Woodbridge,35111,5.3,6.404000000000002
+Yukon,60001,9.2,10.916000000000002
+Carlton Trail--Eagle Creek,47004,5.9,6.584
+Honoré-Mercier,24029,8.4,8.115
+Prince Albert,47006,8.7,7.479999999999998
+Québec,24059,6.0,8.236999999999998
+Peterborough--Kawartha,35084,8.2,7.488
+Kings--Hants,12007,8.9,8.558000000000003
+Fredericton,13003,8.5,7.324999999999999
+Oshawa,35074,10.2,7.656000000000001
+Flamborough--Glanbrook,35030,4.7,5.550000000000001
+Battlefords--Lloydminster,47001,9.7,8.370999999999995
+Winnipeg South Centre,46014,6.0,6.8160000000000025
+Oakville,35072,7.1,6.607999999999999
+Mississauga East--Cooksville,35059,8.0,8.518000000000002
+Burlington,35015,5.7,6.806999999999997
+Hamilton West--Ancaster--Dundas,35038,6.8,6.6549999999999985
+Yorkton--Melville,47014,6.1,8.427999999999995
+South Shore--St. Margarets,12009,9.0,8.308999999999996
+Kitchener--Conestoga,35046,4.5,5.800999999999998
+Mirabel,24048,5.6,6.062000000000001
+Mississauga--Streetsville,35063,7.3,7.216000000000001
+Sackville--Preston--Chezzetcook,12008,6.5,6.324000000000001
+Calgary Centre,48004,8.2,8.738000000000001
+Tobique--Mactaquac,13010,11.2,10.736999999999997
+Calgary Skyview,48013,9.7,8.472999999999999
+Etobicoke--Lakeshore,35028,6.8,7.631
+Lanark--Frontenac--Kingston,35049,6.0,6.292999999999999
